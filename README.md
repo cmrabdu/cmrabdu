@@ -8,6 +8,9 @@
 
 Languages and Tools : 
 
+<img src="https://example.com/path/to/icon-generator?class=devicon-html5-plain colored" alt="Icône HTML5" width="25">
+HTML5 Developer
+
 
             <i class="devicon-html5-plain colored"></i>
                       
