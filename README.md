@@ -1,4 +1,5 @@
 ## Hi There 👋
+ ### 👨🏻‍💻Computer Science enthusiast🚀
 
 🎓 UCLouvain | Belgium 🇧🇪 <br>
 🌐 Exploring the digital universe, one line of code at a time. <br>
