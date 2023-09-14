@@ -8,7 +8,7 @@
 
 Languages and Tools : 
 
-<img src="[https://example.com/path/to/icon-generator?class=devicon-html5-plain colored](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)" alt="Icône HTML5" width="25">
+<img src="[https://example.com/path/to/icon-generator?class=devicon-html5-plain colored](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)" >
 HTML5 Developer
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
