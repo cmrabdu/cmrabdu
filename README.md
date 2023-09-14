@@ -5,5 +5,25 @@
 💡 Passionate about software development, AI, and open source projects. <br>
 📚 Always learning, always coding. <br>
 
-##language##
 
+Languages and Tools : 
+
+
+            <i class="devicon-html5-plain colored"></i>
+                      
+
+            <i class="devicon-css3-plain colored"></i>
+                    
+          
+            <i class="devicon-python-plain colored"></i>
+            
+            <i class="devicon-swift-plain colored"></i>
+          
+                      <i class="devicon-javascript-plain colored"></i>
+
+          
+            <i class="devicon-jetbrains-plain colored"></i>
+                        <i class="devicon-vscode-plain colored"></i>
+
+          
+          
