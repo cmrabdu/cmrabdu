@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-👨‍💻 Computer Science enthusiast 🚀
 🎓 UCLouvain | Belgium 🇧🇪
 🌐 Exploring the digital universe, one line of code at a time.
 💡 Passionate about software development, AI, and open source projects.
