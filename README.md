@@ -1,5 +1,5 @@
 ## Hi There 👋
- ### 👨🏻‍💻Computer Science enthusiast
+ ### 🤖 Computer Science enthusiast
 
 🎓 UCLouvain - EPL
 
